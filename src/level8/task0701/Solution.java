@@ -14,4 +14,12 @@ package level8.task0701;
 
 public class Solution {
     //напишите тут ваш код
+    byte a;
+    short b;
+    int c;
+    long m;
+    float d;
+    double e;
+    boolean k;
+    char l;
 }
