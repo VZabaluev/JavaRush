@@ -1,5 +1,9 @@
 package level8.task0705;
 
+/*
+Бесконечность не предел
+*/
+
 public class Solution {
     public static void main(String[] args) {
         //напишите тут ваш код
