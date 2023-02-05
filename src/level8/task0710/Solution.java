@@ -13,7 +13,7 @@ public class Solution {
         System.out.println(Arrays.toString(array));
     }
 
-    public static void fillArray(Integer[] array, int value){
+    public static void fillArray(Integer[] array, int value) {
         //напишите тут ваш код
         // Arrays.fill(array, value); - альтернатива одной строкой
         for (int i = 0; i < array.length; i++) {
